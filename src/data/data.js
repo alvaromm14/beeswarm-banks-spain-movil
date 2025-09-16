@@ -1,12 +1,21 @@
 export default [
   {
+    "banco": "Santander",
+    "operación": "Compra",
+    "adquisicion": "Sovereign",
+    "pais": "Estados Unidos",
+    "region": "Estados Unidos",
+    "año": 2009,
+    "valor": 1368,
+  },
+  {
     "banco": "BBVA",
     "operación": "Compra",
     "adquisicion": "Garanti",
     "pais": "Turquía",
     "region": "Turquía",
     "año": 2011,
-    "valor": 4195
+    "valor": 4195,
   },
   {
     "banco": "BBVA",
@@ -15,7 +24,7 @@ export default [
     "pais": "Turquía",
     "region": "Turquía",
     "año": 2014,
-    "valor": 1998
+    "valor": 1998,
   },
   {
     "banco": "BBVA",
@@ -24,7 +33,7 @@ export default [
     "pais": "Turquía",
     "region": "Turquía",
     "año": 2017,
-    "valor": 859
+    "valor": 859,
   },
   {
     "banco": "BBVA",
@@ -33,7 +42,7 @@ export default [
     "pais": "Turquía",
     "region": "Turquía",
     "año": 2022,
-    "valor": 1410
+    "valor": 1410,
   },
   {
     "banco": "BBVA",
@@ -42,7 +51,7 @@ export default [
     "pais": "Estados Unidos",
     "region": "Estados Unidos",
     "año": 2009,
-    "valor": 12000
+    "valor": 12000,
   },
   {
     "banco": "BBVA",
@@ -51,7 +60,7 @@ export default [
     "pais": "Estados Unidos",
     "region": "Estados Unidos",
     "año": 2014,
-    "valor": 85.4
+    "valor": 85.4,
   },
   {
     "banco": "BBVA",
@@ -60,7 +69,7 @@ export default [
     "pais": "Estados Unidos",
     "region": "Estados Unidos",
     "año": 2021,
-    "valor": 9700
+    "valor": 9700,
   },
   {
     "banco": "BBVA",
@@ -69,7 +78,7 @@ export default [
     "pais": "Brasil",
     "region": "Sudamérica",
     "año": 2022,
-    "valor": 263
+    "valor": 263,
   },
   {
     "banco": "BBVA",
@@ -78,7 +87,7 @@ export default [
     "pais": "Chile",
     "region": "Sudamérica",
     "año": 2018,
-    "valor": 1870
+    "valor": 1870,
   },
   {
     "banco": "Santander",
@@ -87,7 +96,7 @@ export default [
     "pais": "Polonia",
     "region": "Europa",
     "año": 2011,
-    "valor": 2938
+    "valor": 2938,
   },
   {
     "banco": "Santander",
@@ -96,7 +105,7 @@ export default [
     "pais": "Polonia",
     "region": "Europa",
     "año": 2017,
-    "valor": 305
+    "valor": 305,
   },
   {
     "banco": "Santander",
@@ -105,7 +114,16 @@ export default [
     "pais": "Polonia",
     "region": "Europa",
     "año": 2025,
-    "valor": 7000
+    "valor": 6800,
+  },
+  {
+    "banco": "Santander",
+    "operación": "Venta",
+    "adquisicion": "Santander Puerto Rico",
+    "pais": "Puerto Rico",
+    "region": "Sudamérica",
+    "año": 2020,
+    "valor": 930,
   },
   {
     "banco": "Santander",
@@ -114,7 +132,7 @@ export default [
     "pais": "Suecia, Dinamarca y Noruega",
     "region": "Europa",
     "año": 2014,
-    "valor": 700
+    "valor": 700,
   },
   {
     "banco": "Santander",
@@ -123,7 +141,7 @@ export default [
     "pais": "Portugal",
     "region": "Europa",
     "año": 2015,
-    "valor": 150
+    "valor": 150,
   },
   {
     "banco": "Sabadell",
@@ -132,7 +150,7 @@ export default [
     "pais": "Reino Unido",
     "region": "Europa",
     "año": 2015,
-    "valor": 2300
+    "valor": 2300,
   },
   {
     "banco": "Sabadell",
@@ -141,7 +159,7 @@ export default [
     "pais": "Estados Unidos",
     "region": "Estados Unidos",
     "año": 2009,
-    "valor": 111
+    "valor": 111,
   },
   {
     "banco": "Sabadell",
@@ -150,7 +168,7 @@ export default [
     "pais": "Estados Unidos",
     "region": "Estados Unidos",
     "año": 2011,
-    "valor": 1030
+    "valor": 1030,
   },
   {
     "banco": "Sabadell",
@@ -159,7 +177,7 @@ export default [
     "pais": "Estados Unidos",
     "region": "Estados Unidos",
     "año": 2013,
-    "valor": 41
+    "valor": 41,
   },
   {
     "banco": "Sabadell",
@@ -168,7 +186,7 @@ export default [
     "pais": "Estados Unidos",
     "region": "Estados Unidos",
     "año": 2017,
-    "valor": 967
+    "valor": 967,
   },
   {
     "banco": "Caixabank",
@@ -177,7 +195,7 @@ export default [
     "pais": "Portugal",
     "region": "Europa",
     "año": 2012,
-    "valor": 93.4
+    "valor": 93.4,
   },
   {
     "banco": "Caixabank",
@@ -186,7 +204,7 @@ export default [
     "pais": "Portugal",
     "region": "Europa",
     "año": 2017,
-    "valor": 644.5
+    "valor": 644.5,
   },
   {
     "banco": "Caixabank",
@@ -195,7 +213,7 @@ export default [
     "pais": "Portugal",
     "region": "Europa",
     "año": 2018,
-    "valor": 178
+    "valor": 178,
   },
   {
     "banco": "Caixabank",
@@ -204,7 +222,7 @@ export default [
     "pais": "Portugal",
     "region": "Europa",
     "año": 2018,
-    "valor": 108
+    "valor": 108,
   },
   {
     "banco": "Abanca",
@@ -213,7 +231,7 @@ export default [
     "pais": "Portugal",
     "region": "Europa",
     "año": 2018,
-    "valor": "400 (Estimación)"
+    "valor": "400 (Estimación)",
   },
   {
     "banco": "Abanca",
@@ -222,7 +240,7 @@ export default [
     "pais": "Portugal",
     "region": "Europa",
     "año": 2019,
-    "valor": 384
+    "valor": 384,
   },
   {
     "banco": "Abanca",
@@ -231,7 +249,7 @@ export default [
     "pais": "Portugal",
     "region": "Europa",
     "año": 2024,
-    "valor": 300
+    "valor": 300,
   },
   {
     "banco": "Bankinter",
@@ -240,6 +258,6 @@ export default [
     "pais": "Portugal",
     "region": "Europa",
     "año": 2016,
-    "valor": 86
-  }
-]
+    "valor": 86,
+  },
+];
