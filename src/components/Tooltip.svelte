@@ -33,7 +33,7 @@
         <h1>{data.adquisicion}</h1>
     </div>
 
-    <h2>{data.region}</h2>
+    <h2>{data.pais}</h2>
 
     <div class="info">
         <span class="score">{data.valor.toLocaleString("es-ES", { useGrouping: true })}M€</span>
